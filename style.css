@@ -1,0 +1,61 @@
+body 
+{
+    font-weight: 700;
+    font-size: 28px;
+}
+
+#div1
+{
+
+    margin-top: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#div2
+{
+    
+    letter-spacing: 20px;
+    text-align: center;
+    height: 70px;
+}
+
+#div3
+{
+    width: 40%;
+    height: 400px;
+    float: left;
+}
+
+#div4
+{
+    margin-top: 250px;
+    width: 60%;
+    height: 500px;
+    float: left;
+}
+#przycisk
+{
+    width: 370px;
+    height: 40px;
+    font-size: large;
+}
+.znak 
+{
+    font-family:times new roman;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    padding: 8px;
+    margin: 3px;
+    border: 3px solid black;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.znak:hover 
+{
+    background-color: lightslategray;
+    color: white;
+    border: 3px solid white;
+}
